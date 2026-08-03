@@ -11,11 +11,13 @@ Cloudberry’s acquisition of Orrön Energy accelerates its transition from a pu
 
 ### 2. Target Profile: Orrön Energy
 Orrön Energy offers an unlevered, cash-generative portfolio of onshore wind assets. Strategically located in premium Nordic price areas, the portfolio captures structural power price premiums compared to Northern regions.
+
 - **Financial Health:** High EBITDA margins (~35%) supported by low marginal costs and long-term Power Purchase Agreements (PPAs) providing downside revenue protection.
 - **Operational Excellence:** Lean operating model with proven historical capability in asset life extension and repowering optimizations, transitioning rapidly into a pure-play renewables operator with a pristine, debt-free balance sheet.
 
 ### 3. Strategic Fit & Synergies
 The combination unlocks highly tangible, de-risked synergies:
+
 - **Capital & Revenue Synergies:** Co-locating new solar or BESS at Orrön's existing wind grid connection points avoids multi-year interconnection queues and reduces CapEx.
 - **Cost Consolidation:** Combining maintenance contracts, procurement, and asset management platforms drives an estimated €5.0M in run-rate post-tax savings.
 - **Complementary Generation:** Hydro acts as a natural baseload stabilizer against the intermittent generation profile of wind, smoothing the revenue curve and mitigating the "cannibalization effect" when wind speeds are high.
