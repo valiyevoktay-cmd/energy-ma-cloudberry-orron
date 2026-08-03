@@ -17,6 +17,8 @@ Automated financial model and downside stress-testing framework for a strategic 
 2. **Grid & Balancing Synergies:** Estimated €5.0M post-tax annual operating synergies realized through shared grid connections and optimized PPA structuring.
 3. **Capital Structure Preservation:** Minimizes debt leverage to protect credit metrics against elevated long-term interest rates.
 
+![Sensitivity Table](./sensitivity_table.png)
+
 ## Valuation & Deal Summary
 
 | Metric | Standalone (Orrön) | Pro Forma Combined | Delta / Impact |
@@ -77,12 +79,9 @@ pip install -r requirements.txt
 
 # Run model audit tests
 pytest tests/
-
-# Generate Excel model artifact
-python build_model.py
 ```
 
-The resulting audit-ready workbook is exported to `output/Cloudberry_Orron_MA_Model_v3.xlsx`.
+The resulting audit-ready workbook is explicitly built for strict compliance and placed in the root directory: `Cloudberry_Orron_LBO_Model_vF.xlsx`.
 
 ***
 *Disclaimer: This is a hypothetical case study based on public information. It is not investment advice or an actual solicitation of any transaction.*
