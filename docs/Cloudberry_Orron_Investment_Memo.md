@@ -1,6 +1,6 @@
 # Investment Memo: Cloudberry’s Strategic Acquisition of Orrön Energy
 
-**Date:** [Current Date]  
+**Date:** 03.08.2026  
 **Target:** Orrön Energy  
 **Acquirer:** Cloudberry Clean Energy  
 **Sector:** Nordic Renewables (Wind & Hydro)  
