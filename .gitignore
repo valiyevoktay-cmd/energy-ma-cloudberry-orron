@@ -3,11 +3,5 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
-env/
 .env
-
-# Raw data blobs (assuming we don't commit them)
-data/*.csv
-
-# Output excel files generally shouldn't be ignored if we want to share the template,
-# but we will track Cloudberry_Orron_MA_Model_v3.xlsx since it's the primary deliverable.
+~$*.xlsx
